@@ -1,0 +1,10 @@
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\bin\Debug\pizzaProjectME.exe.config
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\bin\Debug\pizzaProjectME.exe
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\bin\Debug\pizzaProjectME.pdb
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.csprojAssemblyReference.cache
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.v.resources
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.Properties.Resources.resources
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.csproj.GenerateResource.cache
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.csproj.CoreCompileInputs.cache
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.exe
+C:\Tutourials\HadhoudAdvices\WindowsForms\pizzaProjectME\pizzaProjectME\obj\Debug\pizzaProjectME.pdb
